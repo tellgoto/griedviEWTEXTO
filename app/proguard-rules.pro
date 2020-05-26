@@ -3,4 +3,6 @@
 # proguardFiles setting in build.gradle.
 #
 # For more details, see
-#   http://developer.android.com/guide/developing/tools/pro
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# If your project uses WebView 
