@@ -17,4 +17,4 @@
 #-keepattributes SourceFile,LineNumberTable
 
 # If you keep the line number information, uncomment this to
-# h
+# hide the original source file name
