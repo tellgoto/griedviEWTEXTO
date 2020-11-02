@@ -8,4 +8,5 @@ import androidx.fragment.app.Fragment
 import com.breaktime.crypto.R
 
 class SettingsFragment : Fragment() {
-    override fun onCrea
+    override fun onCreateView(
+        inflater: LayoutI
