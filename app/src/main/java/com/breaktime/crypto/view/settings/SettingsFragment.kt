@@ -7,4 +7,5 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.breaktime.crypto.R
 
-class SettingsFragment : 
+class SettingsFragment : Fragment() {
+    override fun onCrea
