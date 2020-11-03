@@ -9,4 +9,5 @@ import com.breaktime.crypto.R
 
 class SettingsFragment : Fragment() {
     override fun onCreateView(
-        inflater: LayoutInflater, container: ViewGr
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundl
