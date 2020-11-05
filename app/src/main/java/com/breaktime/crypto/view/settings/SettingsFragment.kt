@@ -12,4 +12,4 @@ class SettingsFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // In
+        // Inflate the layout for this fragme
