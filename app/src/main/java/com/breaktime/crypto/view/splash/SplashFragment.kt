@@ -1,1 +1,3 @@
-package com.breaktime.cr
+package com.breaktime.crypto.view.splash
+
+import android.os.Bun
