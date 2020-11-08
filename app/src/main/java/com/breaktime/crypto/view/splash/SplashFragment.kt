@@ -2,4 +2,5 @@ package com.breaktime.crypto.view.splash
 
 import android.os.Bundle
 import android.view.LayoutInflater
-import android.view.Vi
+import android.view.View
+import android.view.ViewGr
