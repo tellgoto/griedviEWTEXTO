@@ -9,4 +9,4 @@ import com.breaktime.crypto.R
 
 class SplashFragment : Fragment() {
     override fun onCreateView(
-        inf
+        inflater: LayoutInflater, container: ViewGroup?
