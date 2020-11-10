@@ -8,4 +8,5 @@ import androidx.fragment.app.Fragment
 import com.breaktime.crypto.R
 
 class SplashFragment : Fragment() {
-    ov
+    override fun onCreateView(
+        inf
