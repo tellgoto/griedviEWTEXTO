@@ -12,4 +12,5 @@ class SplashFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layou
+        // Inflate the layout for this fragment
+    
