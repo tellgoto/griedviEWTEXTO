@@ -6,4 +6,4 @@
     android:tint="?attr/colorControlNormal">
   <path
       android:fillColor="@android:color/white"
-      a
+      android:pathData="M12,12m-3.2,
