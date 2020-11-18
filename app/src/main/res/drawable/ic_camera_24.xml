@@ -8,4 +8,5 @@
       android:fillColor="@android:color/white"
       android:pathData="M12,12m-3.2,0a3.2,3.2 0,1 1,6.4 0a3.2,3.2 0,1 1,-6.4 0"/>
   <path
-      android:fillColor="@android:color/w
+      android:fillColor="@android:color/white"
+      android:pathData="M9,2L7.17
