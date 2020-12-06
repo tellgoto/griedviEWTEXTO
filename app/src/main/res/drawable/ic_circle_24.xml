@@ -5,4 +5,5 @@
     android:viewportHeight="24"
     android:tint="?attr/colorControlNormal">
   <path
-      android:fillColor=
+      android:fillColor="@android:color/white"
+      
