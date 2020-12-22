@@ -3,4 +3,5 @@
     android:height="11dp"
     android:viewportWidth="18"
     android:viewportHeight="11">
-  <p
+  <path
+      android:pathData="M18
