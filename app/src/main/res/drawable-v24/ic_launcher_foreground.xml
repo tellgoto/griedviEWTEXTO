@@ -23,4 +23,5 @@
     </path>
     <path
         android:fillColor="#FFFFFF"
-        android
+        android:fillType="nonZero"
+        android:pathData="M
