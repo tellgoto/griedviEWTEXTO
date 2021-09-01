@@ -3,4 +3,5 @@
         app:fontProviderAuthority="com.google.android.gms.fonts"
         app:fontProviderPackage="com.google.android.gms"
         app:fontProviderQuery="name=Roboto&amp;weight=100"
-        app:fontProviderCerts="@ar
+        app:fontProviderCerts="@array/com_google_android_gms_fonts_certs">
+</f
