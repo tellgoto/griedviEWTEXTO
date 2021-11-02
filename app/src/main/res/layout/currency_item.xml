@@ -6,4 +6,5 @@
     android:orientation="vertical">
 
 
-    <androidx.appcompat.widget.LinearLayoutCompa
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_p
