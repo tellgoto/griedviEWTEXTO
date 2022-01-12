@@ -20,4 +20,5 @@
             android:paddingEnd="12dp"
             app:srcCompat="@drawable/ic_bitcoin" />
 
-        <androidx.appcompat.widget.Linear
+        <androidx.appcompat.widget.LinearLayoutCompat
+            a
