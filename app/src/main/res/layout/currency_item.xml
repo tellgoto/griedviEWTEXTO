@@ -21,4 +21,5 @@
             app:srcCompat="@drawable/ic_bitcoin" />
 
         <androidx.appcompat.widget.LinearLayoutCompat
-            android:layout_width="wrap_conten
+            android:layout_width="wrap_content"
+            android:layout_
