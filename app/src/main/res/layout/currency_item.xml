@@ -25,4 +25,4 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <andr
+            <androidx.appcompat.widget.AppCompatTe
