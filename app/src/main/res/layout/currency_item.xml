@@ -26,4 +26,5 @@
             android:orientation="vertical">
 
             <androidx.appcompat.widget.AppCompatTextView
-                android:layout_width="wrap_content
+                android:layout_width="wrap_content"
+                android:la
