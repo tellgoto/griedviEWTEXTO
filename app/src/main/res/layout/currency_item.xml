@@ -32,4 +32,4 @@
                 app:fontFamily="@font/roboto_medium" />
 
             <androidx.appcompat.widget.AppCompatTextView
-                
+                android:layout_width="wrap_conten
