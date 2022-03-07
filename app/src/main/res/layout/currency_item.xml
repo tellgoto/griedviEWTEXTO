@@ -36,4 +36,4 @@
                 android:layout_height="wrap_content"
                 android:textSize="18sp"
                 app:fontFamily="@font/roboto_thin" />
-        </a
+        </androidx.appcompat.widget.LinearL
