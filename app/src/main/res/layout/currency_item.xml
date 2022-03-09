@@ -39,4 +39,5 @@
         </androidx.appcompat.widget.LinearLayoutCompat>
 
 
-        <androidx.appcompat.widget.AppCompatTextV
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_wid
