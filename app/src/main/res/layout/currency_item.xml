@@ -46,4 +46,5 @@
             android:gravity="end"
             android:textColor="@color/black"
             android:textSize="18sp"
-            app:
+            app:fontFamily="@font/roboto" />
+    <
