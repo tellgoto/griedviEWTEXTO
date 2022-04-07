@@ -50,4 +50,5 @@
     </androidx.appcompat.widget.LinearLayoutCompat>
 
     <com.google.android.material.divider.MaterialDivider
-        android:layout_width=
+        android:layout_width="match_parent"
+        and
