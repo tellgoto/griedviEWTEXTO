@@ -49,4 +49,5 @@
             app:fontFamily="@font/roboto" />
     </androidx.appcompat.widget.LinearLayoutCompat>
 
-    <com.google.android.material.divider.Mater
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width=
