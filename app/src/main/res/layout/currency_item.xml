@@ -51,4 +51,5 @@
 
     <com.google.android.material.divider.MaterialDivider
         android:layout_width="match_parent"
-        and
+        android:layout_height="1dp"
+    
