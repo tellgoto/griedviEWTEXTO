@@ -8,4 +8,4 @@
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appbar"
-        android:l
+        android:layout_width="match_pa
