@@ -7,4 +7,5 @@
     tools:context=".view.home.HomeFragment">
 
     <com.google.android.material.appbar.AppBarLayout
-        android:i
+        android:id="@+id/appbar"
+        android:l
