@@ -21,4 +21,4 @@
             android:background="@color/green">
 
             <androidx.appcompat.widget.AppCompatTextView
-                and
+                android:layout_width="wrap_con
