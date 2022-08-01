@@ -25,4 +25,5 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_medium"
                 android:text="@string/home_title"
-                android
+                android:textColor="#fff"
+                android:
