@@ -24,4 +24,5 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_medium"
-                android:text="@stri
+                android:text="@string/home_title"
+                android
