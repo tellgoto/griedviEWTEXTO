@@ -26,4 +26,6 @@
                 android:fontFamily="@font/roboto_medium"
                 android:text="@string/home_title"
                 android:textColor="#fff"
-                android:
+                android:textSize="20sp"
+
+                an
