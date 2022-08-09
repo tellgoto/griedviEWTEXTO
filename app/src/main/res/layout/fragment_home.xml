@@ -28,4 +28,6 @@
                 android:textColor="#fff"
                 android:textSize="20sp"
 
-                an
+                android:textStyle="bold" />
+
+         
