@@ -31,4 +31,5 @@
                 android:textStyle="bold" />
 
             <androidx.appcompat.widget.AppCompatImageView
-                android:id=
+                android:id="@+id/more"
+                andr
