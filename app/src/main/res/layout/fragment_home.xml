@@ -30,4 +30,5 @@
 
                 android:textStyle="bold" />
 
-            <androidx.appcompat.widget.AppC
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id=
