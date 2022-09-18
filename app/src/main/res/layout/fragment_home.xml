@@ -40,4 +40,5 @@
                 android:padding="5dp"
                 app:srcCompat="@drawable/ic_more"
                 app:tint="#fff" />
-        </androidx.ap
+        </androidx.appcompat.widget.Toolbar>
+    </com.
