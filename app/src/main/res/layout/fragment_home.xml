@@ -41,4 +41,6 @@
                 app:srcCompat="@drawable/ic_more"
                 app:tint="#fff" />
         </androidx.appcompat.widget.Toolbar>
-    </com.google.android.material.appbar.Ap
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.recycler
