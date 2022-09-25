@@ -43,4 +43,5 @@
         </androidx.appcompat.widget.Toolbar>
     </com.google.android.material.appbar.AppBarLayout>
 
-    <androidx.recycler
+    <androidx.recyclerview.widget.RecyclerView
+      
