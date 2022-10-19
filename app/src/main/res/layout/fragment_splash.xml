@@ -55,3 +55,11 @@
         android:layout_marginStart="194dp"
         android:layout_marginTop="353dp"
         android:layout_marginEnd="124dp"
+        android:layout_marginBottom="245dp"
+        android:src="@drawable/ic_circle_24"
+        android:tint="@color/yellow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
