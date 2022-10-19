@@ -13,3 +13,45 @@
         android:layout_marginStart="110dp"
         android:layout_marginTop="245dp"
         android:layout_marginEnd="180dp"
+        android:layout_marginBottom="325dp"
+        android:src="@drawable/ic_circle_24"
+        android:tint="@color/green"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="221dp"
+        android:layout_marginTop="280dp"
+        android:layout_marginEnd="110dp"
+        android:layout_marginBottom="331dp"
+        android:src="@drawable/ic_circle_24"
+        android:tint="@color/green"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_marginStart="155dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginEnd="195dp"
+        android:layout_marginBottom="290dp"
+        android:src="@drawable/ic_circle_24"
+        android:tint="@color/yellow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="41dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="194dp"
+        android:layout_marginTop="353dp"
+        android:layout_marginEnd="124dp"
