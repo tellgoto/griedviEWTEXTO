@@ -8,4 +8,4 @@
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
         <item name="colorSecondaryVariant">@color/teal_700</item>
-        <item name="
+        <item name="colorOnSecondary">@color/
