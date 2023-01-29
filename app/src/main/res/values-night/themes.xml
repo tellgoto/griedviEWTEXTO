@@ -4,4 +4,4 @@
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
-        <it
+        <item name="colorOnPrimary">@color/black
