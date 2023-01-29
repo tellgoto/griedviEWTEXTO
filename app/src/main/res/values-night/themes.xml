@@ -3,4 +3,5 @@
     <style name="Theme.Crypto" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_200</item>
-        <item name="colorPrimaryVariant">@col
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <it
