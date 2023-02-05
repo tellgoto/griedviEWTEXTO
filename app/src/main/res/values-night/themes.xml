@@ -6,4 +6,5 @@
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/teal_200</it
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSeconda
