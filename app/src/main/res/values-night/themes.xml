@@ -10,4 +10,4 @@
         <item name="colorSecondaryVariant">@color/teal_200</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor" tools:targ
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVari
