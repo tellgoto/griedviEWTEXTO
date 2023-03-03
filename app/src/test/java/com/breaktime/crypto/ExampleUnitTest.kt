@@ -2,4 +2,7 @@ package com.breaktime.crypto
 
 import org.junit.Test
 
-import org.junit.Asse
+import org.junit.Assert.*
+
+/**
+ * Example local unit
