@@ -29,4 +29,5 @@ if "%DIRNAME%" == "" set DIRNAME=.
 set APP_BASE_NAME=%~n0
 set APP_HOME=%DIRNAME%
 
-@rem Resolve any "." and ".." in APP_
+@rem Resolve any "." and ".." in APP_HOME to make it shorter.
+for %%
