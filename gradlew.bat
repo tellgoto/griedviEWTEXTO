@@ -70,4 +70,5 @@ goto fail
 set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
 
 
-@re
+@rem Execute Gradle
+"%JAVA_EXE%" %DEFAU
