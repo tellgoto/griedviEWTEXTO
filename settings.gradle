@@ -6,4 +6,4 @@ pluginManagement {
     }
 }
 dependencyResolutionManagement {
-    rep
+    repositoriesMode.set(RepositoriesMode
